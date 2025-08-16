@@ -2,7 +2,7 @@
     "name": "webdynamic-ui",
     "exports": {
         ".": "./src/index.ts",
-        "./themes.scss": "./src/themes.scss",
+        "./themes.scss": "./src/themes.scss"
     },
     "files": [
         "src",
